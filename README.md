@@ -21,6 +21,7 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
 [![ExpressJS](https://shields.io/badge/-ExpressJS-0d801c?logo=express&style=for-the-badge)](https://expressjs.com/)&nbsp;
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)&nbsp;
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)&nbsp;
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)&nbsp;
 
