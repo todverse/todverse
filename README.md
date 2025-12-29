@@ -1,10 +1,10 @@
-# Hello, World! 👋
+# Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" >
 
-<p align="center">
-  <img src="https://example.com/your-avatar.png" alt="Your Avatar" width="150"/>
-</p>
+<a href="https://t.me/todverse">
+  <img alt="Maxim Kupin | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
+</a>
 
-**Maxim Kupin** | [Telegram](https://t.me/todverse)
+<br />
 
 ## About Me
 
@@ -33,17 +33,16 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
 
 ## My Programming Languages (GitHub Stats) 📊
 
-| Language | Percentage |
-|---------|-----------|
-| **Vue** | 42.82% |
-| **TypeScript** | 28.02% |
-| **JavaScript** | 20.09% |
-| **CSS** | 4.72% |
-| **SCSS** | 4.35% |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=todverse&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+    <img height="195px" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=todverse&show_icons=true&theme=algolia&hide=contribs,issues" />
+    </td>
+    <td>
+<img height="195px" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=todverse&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ## Where to Find Me 🌐
 
