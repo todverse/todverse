@@ -46,10 +46,8 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
 
 ## Where to Find Me 🌐
 
-[![Site](https://shields.io/badge/-Site-001e26?logo=🌐&style=for-the-badge)](https://dev-todverse.vercel.app/)&nbsp;
-- 🌐 Site: [todverse](https://dev-todverse.vercel.app/)
-- 📧 Email: kupinm360@gmail.com
-- 💻 GitHub: [todverse](https://github.com/todverse)
+[![Site](https://shields.io/badge/-🌐_Site-001e26?style=for-the-badge)](https://dev-todverse.vercel.app/)&nbsp;
+[![Email](https://shields.io/badge/-📧_Email-001e26?style=for-the-badge)](kupinm360@gmail.com)&nbsp;
 
 ## Let’s Connect! 🤝
 
