@@ -17,7 +17,7 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
 [![NuxtJS](https://shields.io/badge/-Nuxt-001e26?logo=nuxt&style=for-the-badge)](https://nuxtjs.org/)&nbsp;
 [![Vue](https://shields.io/badge/-Vue-213634?logo=vue.js&style=for-the-badge)](https://vuejs.org/)&nbsp;
 [![NodeJS](https://shields.io/badge/-NodeJS-0d121c?logo=node.js&style=for-the-badge)](https:/nodejs.org/en)&nbsp;
-[![ExpressJS](https://shields.io/badge/-ExpressJS-0d121c?logo=express.js&style=for-the-badge)](https://expressjs.com/)&nbsp;
+[![ExpressJS](https://shields.io/badge/-ExpressJS-0d801c?logo=express.js&style=for-the-badge)](https://expressjs.com/)&nbsp;
 [![AntDesingVue](https://shields.io/badge/-ant_desing_vue-0f73f3?logo=ant-design&style=for-the-badge)](https://antdv.com/)&nbsp;
 [![TailwindCss](https://shields.io/badge/-tailwindcss-1d2536?logo=tailwindcss&style=for-the-badge)](https://tailwindcss.com/)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)&nbsp;
@@ -46,6 +46,8 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
 
 ## Where to Find Me 🌐
 
+[![Site](https://shields.io/badge/-🌐-001e26?logo=🌐&style=for-the-badge)](https://dev-todverse.vercel.app/)&nbsp;
+- 🌐 Site: [todverse](https://dev-todverse.vercel.app/)
 - 📧 Email: kupinm360@gmail.com
 - 💻 GitHub: [todverse](https://github.com/todverse)
 
