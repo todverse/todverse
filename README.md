@@ -30,13 +30,14 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
 [![AntDesingVue](https://shields.io/badge/-ant_desing_vue-0f73f3?logo=ant-design&style=for-the-badge)](https://antdv.com/)&nbsp;
 [![TailwindCss](https://shields.io/badge/-tailwindcss-1d2536?logo=tailwindcss&style=for-the-badge)](https://tailwindcss.com/)&nbsp;
 
-
+<!--
 ## 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-e24329.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 [![Vite](https://img.shields.io/badge/-vite-a652fe?style=for-the-badge&logo=vite&logoColor=fff)](https://vite.dev/)&nbsp;
+
 
 ## My Programming Languages (GitHub Stats) 📊
 
@@ -50,6 +51,7 @@ My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for 
     </td>
   </tr>
 </table>
+-->
 
 ## Where to Find Me 🌐
 
