@@ -8,9 +8,7 @@
 
 ## About Me
 
-My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for creating intuitive and performant applications. Always eager to learn and contribute to open-source projects.
-
-🎯 **Goals:** Build scalable web applications, mentor junior developers, and stay up-to-date with the latest developers trends.
+My name is Maxim — I'm a passionate **Full-stack Developer** with a knack for creating intuitive and performant applications.
 
 ## 💻 Tech Stack:
 
